@@ -40,7 +40,7 @@ def Gun():
 print(f"This is Snake Water Gun Game\n")
 print("Developer: Ajinkya Makode.  Welcome to Snake Water Gun game!\n")
 print("Game instruction: This is a Two Player game where each player chooses one object from the choice - Snake, Water, Gun. Second Player is computer\n")
-print("Rules: \n\t1. Snake vs. Water: Snake drinks the water hence wins. \n\t2. Water vs. Gun: The gun will drown in water, hence a point for water \n\t3. Gun vs. Snake: Gun will kill the snake and win.\n\tIn situations where both players choose the same object, the result will be a draw.\n\n There are 10 chances to win. Winner will be announced after calculating points\n")
+print("Rules: \n\t1. Snake vs. Water: Snake drinks the water hence wins. \n\t2. Water vs Gun: The gun will drown in water, hence a point for water \n\t3. Gun vs Snake: Gun will kill the snake and win.\n\tIn situations where both players choose the same object, the result will be a draw.\n\n There are 10 chances to win. Winner will be announced after calculating points\n")
 
 i=1
 while(i<11):
